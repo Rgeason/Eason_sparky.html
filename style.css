@@ -101,6 +101,10 @@ main a:hover {
     padding: 4px;
 }
 
+main div p {
+    text-align: center;
+}
+
 /* Paragraphs and Quote */
 p, blockquote {
     color: #444;
